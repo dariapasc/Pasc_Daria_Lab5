@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31702.278
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Pasc_Daria_Lab5", "Pasc_Daria_Lab5.csproj", "{49F4C395-F0F4-43E2-BA56-A3E46C80C874}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AutoLotModel", "AutoLotModel\AutoLotModel.csproj", "{50E402E8-A0A6-4771-811D-239918445961}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{49F4C395-F0F4-43E2-BA56-A3E46C80C874}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{49F4C395-F0F4-43E2-BA56-A3E46C80C874}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{49F4C395-F0F4-43E2-BA56-A3E46C80C874}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{49F4C395-F0F4-43E2-BA56-A3E46C80C874}.Release|Any CPU.Build.0 = Release|Any CPU
+		{50E402E8-A0A6-4771-811D-239918445961}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{50E402E8-A0A6-4771-811D-239918445961}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{50E402E8-A0A6-4771-811D-239918445961}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{50E402E8-A0A6-4771-811D-239918445961}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E0B91F26-35B3-48CF-A5B6-32255AD23423}
+	EndGlobalSection
+EndGlobal
