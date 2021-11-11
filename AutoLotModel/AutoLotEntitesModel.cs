@@ -5,9 +5,9 @@ using System.Linq;
 
 namespace AutoLotModel
 {
-    public partial class Model1 : DbContext
+    public partial class AutoLotEntitiesModel : DbContext
     {
-        public Model1()
+        public AutoLotEntitiesModel()
             : base("name=AutoLotEntitiesModel")
         {
         }

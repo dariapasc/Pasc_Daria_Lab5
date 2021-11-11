@@ -55,7 +55,7 @@
   <ItemGroup>
     <Compile Include="Customer.cs" />
     <Compile Include="Inventory.cs" />
-    <Compile Include="Model1.cs" />
+    <Compile Include="AutoLotEntitesModel.cs" />
     <Compile Include="Order.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
